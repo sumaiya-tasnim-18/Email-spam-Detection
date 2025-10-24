@@ -1,4 +1,4 @@
-# 📩EMAIL_SPAM_DETECTION – Email Classification Using Machine Learning
+# 📩EMAIL_SPAM_DETECTION – Using Machine Learning
 This repository demonstrates a machine learning workflow for detecting and classifying emails as spam or ham (non-spam). It leverages text preprocessing, natural language processing (NLP), and the Multinomial Naive Bayes model to identify unsolicited or phishing content efficiently.
 
 # 📇 Project Overview
