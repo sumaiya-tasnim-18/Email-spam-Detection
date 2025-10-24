@@ -16,3 +16,6 @@ This repository demonstrates a machine learning workflow for detecting and class
 
 # 🎯 Outcome
 Developed a Multinomial Naive Bayes model that achieved 97.8% accuracy in distinguishing spam from ham emails. The project demonstrates the power of NLP and machine learning for text classification, supported by comprehensive visual analytics for model interpretability and dataset insights.
+
+# 📌Project Insights:
+<img width="1790" height="2285" alt="image" src="https://github.com/user-attachments/assets/af78c04b-9dbb-4e9f-88ef-f96d627c60ea" />
